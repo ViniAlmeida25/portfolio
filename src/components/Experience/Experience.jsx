@@ -19,7 +19,7 @@ function Experience () {
           <CardHeader>
             <CardTitle>Frontend Developer</CardTitle>
             <CardDescription>Criando Valor Tecnologia e Inovação</CardDescription>
-            <CardDescription>march 2022 | november 2022</CardDescription>
+            <CardDescription>march 2022 | Working here</CardDescription>
           </CardHeader>
           <CardContent>
             <p>• Developed a responsive website optimized for desktop and mobile, increasing user engagement by 35%.</p>
@@ -42,7 +42,7 @@ function Experience () {
           <CardHeader>
             <CardTitle>UI Design instructor</CardTitle>
             <CardDescription>Soitech - Escola de Tecnologia</CardDescription>
-            <CardDescription>march 2022 | november 2022</CardDescription>
+            <CardDescription>may 2019 | febuary 2022</CardDescription>
           </CardHeader>
           <CardContent>
             <p>• Taught the principles of UI Design, including usability, color theory, and icon and font sizing.</p>
@@ -64,7 +64,7 @@ function Experience () {
           <CardHeader>
             <CardTitle>Web Developer</CardTitle>
             <CardDescription>Monkey Bussiness</CardDescription>
-            <CardDescription>march 2022 | november 2022</CardDescription>
+            <CardDescription>april 2011 | may 2016</CardDescription>
           </CardHeader>
           <CardContent>
             <p>• Create modern and responsive layouts for websites and e-commerce pages, ensuring high performance through integrations with
