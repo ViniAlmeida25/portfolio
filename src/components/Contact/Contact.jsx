@@ -5,7 +5,7 @@ function Contact () {
     <div className="p-10 pb-28 grid grid-cols-6 gap-8 max-sm:block">
 
       <div  className="col-span-4">
-        <h4 className="text-3xl font-bold">Let's work together</h4>
+        <h4 className="text-3xl font-bold  font-mono">Let's work together</h4>
         <div className="mt-2">
           <p className="text-lg">
             Contact me so we can discuss about your projects, job opportunities, and about my career and how we can work together.
