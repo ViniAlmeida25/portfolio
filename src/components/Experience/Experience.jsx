@@ -24,7 +24,7 @@ function Experience () {
             <p>• Implemented a single-page application using React and Redux, improving performance and usability.</p>
             <p>• Utilized HTML, CSS, and JavaScript to create a dynamic, interactive user interface, enhancing user experience.</p>
           </CardContent>
-          <CardFooter className="gap-2">
+          <CardFooter className="gap-2 flex-wrap">
             <Badge>Javascript</Badge>
             <Badge>CSS</Badge>
             <Badge>HTML</Badge>
@@ -49,7 +49,7 @@ function Experience () {
             <p>• Practical creation of attractive designs and mockups aimed at building portfolios.</p>
             <p>• Used real examples to demonstrate the application of design concepts in the development of visual projects.</p>
           </CardContent>
-          <CardFooter className="gap-2">
+          <CardFooter className="gap-2 flex-wrap">
             <Badge>Figma</Badge>
             <Badge>Ux Design</Badge>
             <Badge>Ui Design</Badge>
@@ -72,7 +72,7 @@ function Experience () {
             <p>• Focused on HTML semantics, clean CSS, and JavaScript DOM manipulation to enhance user experience, creating pages that ranked well
             on Google and loaded efficiently on any device.</p>
           </CardContent>
-          <CardFooter className="gap-2">
+          <CardFooter className="gap-2 flex-wrap">
             <Badge>Javascript</Badge>
             <Badge>CSS</Badge>
             <Badge>Sass</Badge>

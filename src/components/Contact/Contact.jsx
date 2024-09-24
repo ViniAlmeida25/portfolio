@@ -2,7 +2,7 @@ import { GitHubLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons"
 
 function Contact () {
   return (
-    <div className="p-10 pb-28 grid grid-cols-6 gap-6">
+    <div className="p-10 pb-28 grid grid-cols-6 gap-6 max-sm:block">
 
       <div  className="col-span-4">
         <h4 className="text-3xl font-bold">Let's work together</h4>
@@ -12,7 +12,7 @@ function Contact () {
           </p>
         </div>
       </div>
-      <div className="col-span-2 text-left">
+      <div className="col-span-2 text-left max-sm:mt-10">
         <div>
          <label className="font-bold text-lg">Email</label>
           <p>vinicius.sal90@gmail.com</p>

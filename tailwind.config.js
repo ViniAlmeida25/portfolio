@@ -12,6 +12,16 @@ export default {
   			md: 'calc(var(--radius) - 2px)',
   			sm: 'calc(var(--radius) - 4px)'
   		},
+			screens: {
+				'sm': '640px',
+				// => @media (min-width: 640px) { ... }
+
+				'laptop': '1024px',
+				// => @media (min-width: 1024px) { ... }
+
+				'desktop': '1280px',
+				// => @media (min-width: 1280px) { ... }
+			},
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
