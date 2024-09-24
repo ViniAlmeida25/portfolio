@@ -2,6 +2,8 @@ import HeroSection from "./components/Hero/Hero"
 import Projects from "./components/Projects/Projects"
 import TabPage from "./components/Tabs/TabPage"
 import Contact from "./components/Contact/Contact"
+import { Skeleton } from "@/components/ui/skeleton"
+
 
 
 
@@ -16,6 +18,7 @@ function App() {
         <TabPage />
         <Projects />
         <Contact />
+        <Skeleton />
       </div>
     </>
   )

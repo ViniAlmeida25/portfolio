@@ -1,6 +1,8 @@
 import Skills from "../Skills/Skills"
 import Experience from "../Experience/Experience"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Skeleton } from "@/components/ui/skeleton"
+
 
 function TabPage() {
   return (

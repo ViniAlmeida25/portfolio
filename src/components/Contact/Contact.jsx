@@ -2,12 +2,12 @@ import { GitHubLogoIcon, LinkedInLogoIcon } from "@radix-ui/react-icons"
 
 function Contact () {
   return (
-    <div className="p-10 pb-28 grid grid-cols-6 gap-6 max-sm:block">
+    <div className="p-10 pb-28 grid grid-cols-6 gap-8 max-sm:block">
 
       <div  className="col-span-4">
         <h4 className="text-3xl font-bold">Let's work together</h4>
         <div className="mt-2">
-          <p className="text-xl">
+          <p className="text-lg">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ut eius autem.
           </p>
         </div>
