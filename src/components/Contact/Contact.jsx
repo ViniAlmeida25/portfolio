@@ -8,7 +8,7 @@ function Contact () {
         <h4 className="text-3xl font-bold">Let's work together</h4>
         <div className="mt-2">
           <p className="text-lg">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ut eius autem.
+            Contact me so we can discuss about your projects, job opportunities, and about my career and how we can work together.
           </p>
         </div>
       </div>
