@@ -9,7 +9,7 @@ function HeroSection() {
         <p className="mt-4 text-4xl font-bold">
           Hello,
         </p>
-        <h1 className='text-4xl font-bold mt-1'>I'm Vinicius.</h1>
+        <h1 className='text-4xl font-bold mt-1'>I'm Vinicius Luiz.</h1>
         <p className="mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         <p className="mt-2">This is my personal portfolio website here you can see some of my projects.</p>
       </div>
