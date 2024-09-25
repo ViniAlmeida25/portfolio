@@ -8,14 +8,14 @@ function Contact () {
         <h4 className="text-3xl font-bold">Let's work together</h4>
         <div className="mt-2">
           <p className="text-lg">
-            Contact me so we can discuss about your projects, job opportunities, and about my career and how we can work together.
+            C<p>•Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam optio excepturi.</p>
           </p>
         </div>
       </div>
       <div className="col-span-2 text-left max-sm:mt-10">
         <div>
          <label className="font-bold text-lg">Email</label>
-          <p>vinicius.sal90@gmail.com</p>
+          <p>vinicius@mail.com</p>
         </div>
         <div className="mt-4">
          <label className="font-bold text-lg">Phone</label>
@@ -24,10 +24,10 @@ function Contact () {
         <div className="mt-4">
          <label className="font-bold text-lg">Social</label>
          <div className=" flex justify-start mt-2 gap-6">
-            <a href="https://www.linkedin.com/in/viniciussilvadealmeidaluiz/" target="_blank">
+            <a href="#" target="_blank">
               <LinkedInLogoIcon className="size-5"/>
             </a>
-            <a href="https://github.com/ViniAlmeida25" target="_blank">
+            <a href="#" target="_blank">
               <GitHubLogoIcon className="size-5"/>
             </a>
         </div>
