@@ -12,7 +12,7 @@ import Akira from './akira.png'
 function Projects () {
   return (
       <div className="mt-10 mb-10 pl-10 pr-10">
-        <h3 className="text-3xl font-bold">Projects</h3>
+        <h3 className="text-3xl font-bold text-neutral-800">Projects</h3>
         <Tabs defaultValue="validation" className="w-[full] mt-6">
         <TabsList>
           <TabsTrigger value="validation" className="font-bold">
